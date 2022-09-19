@@ -9,5 +9,8 @@
         <module name="biqugeSpider" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="biqugeSpider" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

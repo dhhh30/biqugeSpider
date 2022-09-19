@@ -24,7 +24,7 @@ abstract class AbstractParser {
         } catch (Exception e){
             this.error =  ("Error while requesting html");
         }
-        return response.body();
+        return (response.body());
     }
 
 }
