@@ -1,5 +1,8 @@
 import java.util.Scanner;
 public class Main {
+    protected void LinkWrite(ContentList contentList){
+
+    }
     public static void Main() {
         Scanner StandardInput = new Scanner(System.in);
         System.out.println("Enter index page for xbiquge.so:");
@@ -9,6 +12,5 @@ public class Main {
         titleParser.parseToAuthorStructure();
         AuthorStructure bookInfo = titleParser.AuthorStructure;
         System.out.println("Complete reading title info for this book, now parsing links...");
-
     }
 }
