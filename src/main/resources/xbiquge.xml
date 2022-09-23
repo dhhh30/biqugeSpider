@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<parser>
+    <titlelist>
+        <id></id>
+        <titletag></titletag>
+        <csspath></csspath>
+    </titlelist>
+    <linklist>
+        <listid></listid>
+        <csspath></csspath>
+        <ignoreamount></ignoreamount>
+
+    </linklist>
+</parser>
